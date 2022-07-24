@@ -20,8 +20,8 @@ class weather_parser():
             city_name, id = get_city_id(city)
             url = f'https://yandex.ru/pogoda/?{id}'
             data = req.urlopen(url).read()
-            with open(f'data/index-{city_name}.html', 'wb') as f:
-                f.write(data)
+#             with open(f'data/index-{city_name}.html', 'wb') as f:
+#                 f.write(data)
             return city_name, data, url
         except Exception as ex:
             self.save_logs(str(ex))
