@@ -129,9 +129,9 @@ def main():
             continue
 
 
-def save_logs(string: str):
+def save_logs(s: str):
     with open('logs.txt', 'a', encoding='utf-8') as f:
-        message = datetime.now().strftime('%H:%M:%S') + f': {string}\n'
+        message = datetime.now().strftime('%H:%M:%S') + f': {s}\n'
         f.write(message)
 
 
