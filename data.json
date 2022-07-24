@@ -1,0 +1,333 @@
+[
+    "Сыктывкар",
+    [
+        {
+            "name": "Сыктывкар, Республика Коми, Россия",
+            "name_short": "Сыктывкар",
+            "kind": "weather",
+            "lat": 61.66883087,
+            "lon": 50.83646011,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%B8%2C+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80&kind=weather",
+            "spnlat": 0.2317428589,
+            "spnlon": 0.2961502075,
+            "geoid": 19,
+            "slug": "19",
+            "hl": [
+                [
+                    0,
+                    9
+                ]
+            ]
+        },
+        {
+            "name": "аэропорт Сыктывкар имени П.А. Истомина, городской округ Сыктывкар, Республика Коми, Россия",
+            "name_short": "аэропорт Сыктывкар имени П.А. Истомина",
+            "kind": "airport",
+            "lat": 61.66386414,
+            "lon": 50.85160446,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%B8%2C+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80%2C+%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80+%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8+%D0%9F.%D0%90.+%D0%98%D1%81%D1%82%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0&kind=airport",
+            "spnlat": 0.03285217285,
+            "spnlon": 0.03845214844,
+            "geoid": 19,
+            "slug": "19",
+            "hl": [
+                [
+                    9,
+                    18
+                ],
+                [
+                    56,
+                    65
+                ]
+            ]
+        },
+        {
+            "name": "Сыктывкар-Южный, муниципальный район Сыктывдинский, Республика Коми, Россия",
+            "name_short": "Сыктывкар-Южный",
+            "kind": "airport",
+            "lat": 61.58148193,
+            "lon": 50.5281105,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%B8%2C+%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%2C+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80-%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9&kind=airport",
+            "spnlat": 0.03060531616,
+            "spnlon": 0.02660751343,
+            "geoid": 99213,
+            "slug": "99213",
+            "hl": [
+                [
+                    0,
+                    9
+                ]
+            ]
+        },
+        {
+            "name": "Сыктывкар внутренний терминал, аэропорт Сыктывкар имени П.А. Истомина, городской округ Сыктывкар, Республика Коми, Россия",
+            "name_short": "Сыктывкар внутренний терминал",
+            "kind": "airport",
+            "lat": 61.663311,
+            "lon": 50.85070038,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%B8%2C+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80%2C+%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80+%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8+%D0%9F.%D0%90.+%D0%98%D1%81%D1%82%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%2C+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80+%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9+%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB&kind=airport",
+            "spnlat": 0,
+            "spnlon": 0,
+            "geoid": 19,
+            "slug": "19",
+            "hl": [
+                [
+                    0,
+                    9
+                ],
+                [
+                    40,
+                    49
+                ],
+                [
+                    87,
+                    96
+                ]
+            ]
+        },
+        {
+            "name": "СНТ 1-е Сыктывкарское, территория Дырносский, Сыктывкар, Республика Коми, Россия",
+            "name_short": "СНТ 1-е Сыктывкарское",
+            "kind": "locality",
+            "lat": 61.68265915,
+            "lon": 50.75580597,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%B8%2C+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80%2C+%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D0%94%D1%8B%D1%80%D0%BD%D0%BE%D1%81%D1%81%D0%BA%D0%B8%D0%B9%2C+%D0%A1%D0%9D%D0%A2+1-%D0%B5+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5&kind=locality",
+            "spnlat": 0.008052825928,
+            "spnlon": 0.01648712158,
+            "geoid": 19,
+            "slug": "19",
+            "hl": [
+                [
+                    8,
+                    17
+                ],
+                [
+                    46,
+                    55
+                ]
+            ]
+        },
+        {
+            "name": "СНТ 1-е Сыктывкарское, 105, территория Дырносский, Сыктывкар, Республика Коми, Россия",
+            "name_short": "СНТ 1-е Сыктывкарское, 105",
+            "kind": "house",
+            "lat": 61.68186569,
+            "lon": 50.75272369,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%B8%2C+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80%2C+%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D0%94%D1%8B%D1%80%D0%BD%D0%BE%D1%81%D1%81%D0%BA%D0%B8%D0%B9%2C+%D0%A1%D0%9D%D0%A2+1-%D0%B5+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5%2C+105&kind=house",
+            "geoid": 19,
+            "slug": "19",
+            "hl": [
+                [
+                    8,
+                    17
+                ],
+                [
+                    51,
+                    60
+                ]
+            ]
+        },
+        {
+            "name": "СНТ 1-е Сыктывкарское, 121, территория Дырносский, Сыктывкар, Республика Коми, Россия",
+            "name_short": "СНТ 1-е Сыктывкарское, 121",
+            "kind": "house",
+            "lat": 61.68229294,
+            "lon": 50.75185013,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%B8%2C+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80%2C+%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D0%94%D1%8B%D1%80%D0%BD%D0%BE%D1%81%D1%81%D0%BA%D0%B8%D0%B9%2C+%D0%A1%D0%9D%D0%A2+1-%D0%B5+%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5%2C+121&kind=house",
+            "geoid": 19,
+            "slug": "19",
+            "hl": [
+                [
+                    8,
+                    17
+                ],
+                [
+                    51,
+                    60
+                ]
+            ]
+        }
+    ]
+][
+    "Югыдъяг",
+    [
+        {
+            "name": "Югыдъяг, Усть-Куломский район, Республика Коми, Россия",
+            "name_short": "Югыдъяг",
+            "kind": "weather",
+            "lat": 61.62965393,
+            "lon": 54.94360352,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%B8%2C+%D0%A3%D1%81%D1%82%D1%8C-%D0%9A%D1%83%D0%BB%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%AE%D0%B3%D1%8B%D0%B4%D1%8A%D1%8F%D0%B3&kind=weather",
+            "spnlat": 0.0255279541,
+            "spnlon": 0.04210662842,
+            "geoid": 145938,
+            "slug": "145938",
+            "hl": [
+                [
+                    0,
+                    7
+                ]
+            ]
+        }
+    ]
+][
+    "Югыдъя",
+    [
+        {
+            "name": "Югыдъяг, Усть-Куломский район, Республика Коми, Россия",
+            "name_short": "Югыдъяг",
+            "kind": "weather",
+            "lat": 61.62965393,
+            "lon": 54.94360352,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D0%BC%D0%B8%2C+%D0%A3%D1%81%D1%82%D1%8C-%D0%9A%D1%83%D0%BB%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%AE%D0%B3%D1%8B%D0%B4%D1%8A%D1%8F%D0%B3&kind=weather",
+            "spnlat": 0.0255279541,
+            "spnlon": 0.04210662842,
+            "geoid": 145938,
+            "slug": "145938",
+            "hl": [
+                [
+                    0,
+                    6
+                ]
+            ]
+        }
+    ]
+][
+    "Москв",
+    [
+        {
+            "name": "Москва, Москва и Московская область, Россия",
+            "name_short": "Москва",
+            "kind": "weather",
+            "lat": 55.75321579,
+            "lon": 37.62250519,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0+%D0%B8+%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&kind=weather",
+            "spnlat": 0.87865448,
+            "spnlon": 1.164421082,
+            "geoid": 213,
+            "slug": "213",
+            "hl": [
+                [
+                    0,
+                    5
+                ],
+                [
+                    8,
+                    13
+                ]
+            ]
+        },
+        {
+            "name": "район Москворечье, Бронницы, Московская область, Россия",
+            "name_short": "район Москворечье",
+            "kind": "district",
+            "lat": 55.42047882,
+            "lon": 38.28934097,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%91%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D1%8B%2C+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%BE%D1%80%D0%B5%D1%87%D1%8C%D0%B5&kind=district",
+            "spnlat": 0.01132202148,
+            "spnlon": 0.02600479126,
+            "geoid": 10717,
+            "slug": "10717",
+            "hl": [
+                [
+                    6,
+                    11
+                ]
+            ]
+        },
+        {
+            "name": "деревня Москва, Порховский район, Псковская область, Россия",
+            "name_short": "деревня Москва",
+            "kind": "locality",
+            "lat": 57.44867706,
+            "lon": 29.18554497,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%9F%D0%BE%D1%80%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&kind=locality",
+            "spnlat": 0.003051757813,
+            "spnlon": 0.003082275391,
+            "geoid": 99182,
+            "slug": "99182",
+            "hl": [
+                [
+                    8,
+                    13
+                ]
+            ]
+        },
+        {
+            "name": "Московский международный деловой центр Москва-Сити, Пресненский район, Центральный административный округ, Москва, Россия",
+            "name_short": "Москва-Сити",
+            "kind": "district",
+            "lat": 55.74945068,
+            "lon": 37.54282379,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3%2C+%D0%9F%D1%80%D0%B5%D1%81%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9+%D0%B4%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9+%D1%86%D0%B5%D0%BD%D1%82%D1%80+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-%D0%A1%D0%B8%D1%82%D0%B8&kind=district",
+            "spnlat": 0.009662628174,
+            "spnlon": 0.02001571655,
+            "geoid": 120538,
+            "slug": "120538",
+            "hl": [
+                [
+                    39,
+                    44
+                ],
+                [
+                    107,
+                    112
+                ]
+            ]
+        },
+        {
+            "name": "район Москва, район Астана, городской акимат Актобе, Актюбинская область, Казахстан",
+            "name_short": "район Москва",
+            "kind": "district",
+            "lat": 50.27251053,
+            "lon": 57.20829391,
+            "url": "//yandex.ru/pogoda?name=%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%2C+%D0%90%D0%BA%D1%82%D1%8E%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9+%D0%B0%D0%BA%D0%B8%D0%BC%D0%B0%D1%82+%D0%90%D0%BA%D1%82%D0%BE%D0%B1%D0%B5%2C+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD+%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&kind=district",
+            "spnlat": 0.02793502808,
+            "spnlon": 0.03357696533,
+            "geoid": 20273,
+            "slug": "20273",
+            "hl": [
+                [
+                    6,
+                    11
+                ]
+            ]
+        },
+        {
+            "name": "станция Москва-Товарная, МЦД-2 Курско-Рижский диаметр, Россия",
+            "name_short": "станция Москва-Товарная",
+            "kind": "metro",
+            "lat": 55.74565506,
+            "lon": 37.68831253,
+            "url": "//yandex.ru/pogoda?name=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C+%D0%9C%D0%A6%D0%94-2+%D0%9A%D1%83%D1%80%D1%81%D0%BA%D0%BE-%D0%A0%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80%2C+%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-%D0%A2%D0%BE%D0%B2%D0%B0%D1%80%D0%BD%D0%B0%D1%8F&kind=metro",
+            "spnlat": 0,
+            "spnlon": 0,
+            "geoid": 218556,
+            "slug": "218556",
+            "hl": [
+                [
+                    8,
+                    13
+                ]
+            ]
+        },
+        {
+            "name": "здание Москва, квартал Евразия, жилой комплекс Минск-Мир, Октябрьский район, Минск, Беларусь",
+            "name_short": "здание Москва",
+            "kind": "district",
+            "lat": 53.86904526,
+            "lon": 27.53940773,
+            "url": "//yandex.ru/pogoda?name=%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%B6%D0%B8%D0%BB%D0%BE%D0%B9+%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA-%D0%9C%D0%B8%D1%80%2C+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB+%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D1%8F%2C+%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&kind=district",
+            "spnlat": 0,
+            "spnlon": 0,
+            "geoid": 102267,
+            "slug": "102267",
+            "hl": [
+                [
+                    7,
+                    12
+                ]
+            ]
+        }
+    ]
+]
